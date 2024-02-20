@@ -29,7 +29,7 @@ main {
 
 .card {
   width: 600px;
-  height: 564px;
+  height: fit-content;
   background-color: hsl(0, 0%, 100%);
   border-radius: 16px;
   padding: 41px;
